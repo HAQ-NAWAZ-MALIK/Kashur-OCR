@@ -9,7 +9,7 @@
 
 
 
-
+```
 
 
 import tensorflow as tf
@@ -210,3 +210,4 @@ if __name__ == "__main__":
     print("Improved Kashmiri Text Scanner")
     print("=" * 50)
     scan_uploaded_text()
+```
