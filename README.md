@@ -1,7 +1,7 @@
 # Kashur-OCR
 
-
-
+KASH LANGDATA  "" for Tessareact ""
+Ground Truth files "" This zip contains 10k tranning files   {.tif and text files}  ""
 
 # keep the downloaded files in root
 
